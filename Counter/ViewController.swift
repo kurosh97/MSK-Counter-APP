@@ -17,6 +17,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    @IBAction func sliderValueChange(_ sender: UISlider) {
+        counterText.text = String(sender.value)
+    }
+    
+    @IBAction func stepperValueChange(_ sender: UIStepper) {
+        counterText.text = String(sender.value)
+    }
+    
     @IBAction func resetBtn(_ sender: Any) {
         count = 0
         counterText.text = "\(0)"
