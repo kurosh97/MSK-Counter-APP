@@ -10,7 +10,7 @@ Simple Count-app using Xcode and Swift. I also added Icon to the app and launch 
 2. Clone or download Zip:
   
 ```sh 
-  $ git@github.com:kurosh97/MSK-Counter-APP.git
+  $ git clone git@github.com:kurosh97/MSK-Counter-APP.git
 ```
 <br/>
 
