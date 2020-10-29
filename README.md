@@ -5,7 +5,7 @@ Simple Count-app using Xcode and Swift. I also added Icon to the app and launch 
 
 #### Local computer
 <details><summary>Show instructions</summary>
-1. Open project in code editor.
+1. Open project in XCode.
   <br/>
 2. Clone or download Zip:
   
